@@ -3,18 +3,24 @@ def display_list(ma_liste: list):
     print("TODO")
 
 
+#En python, les str sont egalement des tableau. des tableau de caractères
+#Avec cette information, afficher chaque lettre d'une phrase donnée en parametre
+def display_word_str(un_mot : str):
+    print("TODO")
+
 # Completez la fonction afin qu'elle puisse nous afficher les 100 premiers nombres entiers
 def display_hundred_int():
     print("TODO")
 
 
-# Demandez à l'utilisateur des notes, ajoutez les dans un tableau et faites la moyenne des notes.
+# generez des nombres random, ajoutez les dans un tableau et faites la moyenne des notes.
 # Si la note, est en dessous de 10 (exclu), affichez "Non admin", sinon, "admin"
 def mention_moyenne():
     print("TODO")
 
 
 # Affichez le nombre de voyelle que comporte un mot saisie par l'utilisateur
+# Vous pouvez varier cet exercice en affichant le nombre de consonne
 def display_number_voyelle():
     print("TODO")
 
